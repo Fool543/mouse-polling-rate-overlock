@@ -3,8 +3,8 @@ Increase Mouse polling rate for better aim . This one works with secure boot on 
 
 
 ## Tested on 
-i. Windows 10 22h2 x64
-ii. Windows 11 23h2 x64 
+- Windows 10 22h2 x64
+- Windows 11 23h2 x64 
 
 ## Prerequisites
 1. Turn of core isolation / memory integrity
