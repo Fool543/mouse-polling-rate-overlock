@@ -23,7 +23,7 @@ Increase Mouse polling rate for better aim . This one works with secure boot on 
 - Reboot pc . After reboot go to C:\Windows\System32\drivers and find hidusbf.sys . If the file isnt there then repeat step above 2 steps in test mode . 
 - Run setup.exe again and Copy IDs . Paste it in notepad .
 - Under device copy vid . For eg. Mine is VID_046D .
-- Replace this vid in MouseOC_3.xml . Like here
+- Replace this vid in MouseOC_3.xml . Like here ( only replace VID_XXXX)
   
     ![image](https://github.com/Fool543/mouse-polling-rate-overlock/assets/120022950/dddf47a8-4c6c-468b-a6bb-3bcf324399ae)
 
