@@ -1,4 +1,4 @@
-## Mouse-polling-rate-overlock
+### Mouse-polling-rate-overlock
 Increase Mouse polling rate for better aim 
 
 
