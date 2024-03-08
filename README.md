@@ -29,7 +29,7 @@ Increase Mouse polling rate for better aim . This one works with secure boot on 
 
 - Open task scheduler and import task . Then import all the MouseOC_*.xml .
 - Reboot pc
-- Wait for 3 mins .
+- Wait for 3 mins . ( or go to taskscheduler and run MouseOC_* tasks according to their number )
 - Then start Setup.exe again . Click on filter on device . Make sure u didnt get any errors .
 - Then select desired polling rate from menu and click restart .
 
