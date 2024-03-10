@@ -42,7 +42,7 @@ Increase Mouse polling rate for better aim . This one works with secure boot on 
 
 ## Notes 
 If u get any defender warnings just add atsiv folder to exclusion list . 
-The 2000-4000 folders contain additional files for overclocking upto 8000 Hz . But dont get exicited ur mouse might not work . Replace the same files for hidusfp.sys and hidusbf.sys . 
+The 2000-4000 folders contain additional files for overclocking upto 8000 Hz . But dont get exicited ur mouse might not work . Replace the same files for hidusfp.sys(in atsiv folder) and hidusbf.sys( in atsiv/AMD64/ folder ) . 
 Check link for more details 
 
 ## Link
