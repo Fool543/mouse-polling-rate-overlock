@@ -23,13 +23,13 @@ Increase Mouse polling rate for better aim . This one works with secure boot on 
 - Reboot pc . After reboot go to C:\Windows\System32\drivers and find hidusbf.sys . If the file isnt there then repeat step above 2 steps in test mode . 
 - Run setup.exe again and Copy IDs . Paste it in notepad .
 - Under device copy vid . For eg. Mine is VID_046D .
-- Replace this vid in MouseOC_3.xml and in Start.bat file . Like here ( only replace VID_XXXX)
+- Replace this vid in Start.bat file . Like here ( only replace VID_XXXX)
   
-    ![image](https://github.com/Fool543/mouse-polling-rate-overlock/assets/120022950/dddf47a8-4c6c-468b-a6bb-3bcf324399ae)
+    ![image](https://github.com/Fool543/mouse-polling-rate-overlock/assets/120022950/5eca51fb-6582-4486-ad76-0455d7748d7a)
 
 - Open task scheduler and import task . Then import all the MouseOC_*.xml .
 - Reboot pc
-- Wait for 3 mins . ( or go to taskscheduler and run MouseOC_* tasks according to their number )
+- Run Start.bat as admin . 
 - Then start Setup.exe again . Click on filter on device . Make sure u didnt get any errors .
 - Then select desired polling rate from menu and click restart .
 - For now the tasks are not auto starting . So it is needed to manually start the tasks so i made a bat file (Start.bat) . Just run that file as admin to apply polling rate .
@@ -46,7 +46,6 @@ Orginal post for mouse overlock - https://www.overclock.net/threads/usb-mouse-ha
 
 ## Credits 
 - [Lordofmice](https://github.com/LordOfMice) For making the whole thing possible 
-- [vadash](https://github.com/vadash/1000hz) For his xml files 
 
 
 
