@@ -32,7 +32,6 @@ Increase Mouse polling rate for better aim . This one works with secure boot on 
   
     ![image](https://github.com/Fool543/mouse-polling-rate-overlock/assets/120022950/5eca51fb-6582-4486-ad76-0455d7748d7a)
 
-- Open task scheduler and import task . Then import all the MouseOC_*.xml .
 - Reboot pc
 - Run Start.bat as admin . 
 - Then start Setup.exe again . Click on filter on device . Make sure u didnt get any errors .
