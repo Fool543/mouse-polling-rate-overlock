@@ -33,7 +33,7 @@ Increase Mouse polling rate for better aim . This one works with secure boot on 
     ![image](https://github.com/Fool543/mouse-polling-rate-overlock/assets/120022950/5eca51fb-6582-4486-ad76-0455d7748d7a)
 
 - Reboot pc
-- Run Start.bat as admin . 
+- Run Start.bat . 
 - Then start Setup.exe again . Click on filter on device . Make sure u didnt get any errors .
 - Then select desired polling rate from menu and click restart .
 - For now the tasks are not auto starting . So it is needed to manually start the tasks so i made a bat file (Start.bat) . Just run that file as admin to apply polling rate .
