@@ -44,6 +44,7 @@ Increase Mouse polling rate for better aim . This one works with secure boot on 
 If u get any defender warnings just add atsiv folder to exclusion list . 
 The 2000-4000 folders contain additional files for overclocking upto 8000 Hz . But dont get exicited ur mouse might not work . Replace the same files for hidusfp.sys(in atsiv folder) and hidusbf.sys( in atsiv/AMD64/ folder ) . 
 Check link for more details 
+Mouse vid changes if u change usb port . Now if u set mouse refesh rate above 1000 and it doesnt work and ur mouse stops working just plug it in another usb port 
 
 ## Link
 Orginal post for mouse overlock - https://www.overclock.net/threads/usb-mouse-hard-overclocking-2000-hz.1589644/
