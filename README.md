@@ -48,6 +48,7 @@ Mouse vid changes if u change usb port . Now if u set mouse refesh rate above 10
 
 ## Link
 Orginal post for mouse overlock - https://www.overclock.net/threads/usb-mouse-hard-overclocking-2000-hz.1589644/
+Mouse Polling Rate Test - https://cps-check.com/polling-rate-check
 
 ## Credits 
 - [Lordofmice](https://github.com/LordOfMice) For making the whole thing possible 
