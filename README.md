@@ -47,8 +47,10 @@ Check link for more details
 Mouse vid changes if u change usb port . Now if u set mouse refesh rate above 1000 and it doesnt work and ur mouse stops working just plug it in another usb port 
 
 ## Link
-Orginal post for mouse overlock - https://www.overclock.net/threads/usb-mouse-hard-overclocking-2000-hz.1589644/
-Mouse Polling Rate Test - https://cps-check.com/polling-rate-check
+1.Orginal post for mouse overlock - https://www.overclock.net/threads/usb-mouse-hard-overclocking-2000-hz.1589644/
+2.Mouse Polling Rate Test - https://cps-check.com/polling-rate-check
+
+
 
 ## Credits 
 - [Lordofmice](https://github.com/LordOfMice) For making the whole thing possible 
