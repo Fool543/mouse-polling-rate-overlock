@@ -46,6 +46,9 @@ The 2000-4000 folders contain additional files for overclocking upto 8000 Hz . B
 Check link for more details 
 Mouse vid changes if u change usb port . Now if u set mouse refesh rate above 1000 and it doesnt work and ur mouse stops working just plug it in another usb port 
 
+Vanguard blocks the atsiv used here , for that extract the atsiv.exe and atsiv.sys from atsiv.zip in the repo and replace them . But add the atsiv folder as exclusion to windows defender . 
+Password is atsiv . 
+
 ## Link
 1.Orginal post for mouse overlock - https://www.overclock.net/threads/usb-mouse-hard-overclocking-2000-hz.1589644/
 2.Mouse Polling Rate Test - https://cps-check.com/polling-rate-check
